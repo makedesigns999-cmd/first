@@ -21,4 +21,4 @@ op= [False, True, 2.5, 1, 3, 'apple', 'banana']
 l1= ['python','is','fun'] 
 
 l1.sort(key=lambda x:len(x))
-print(l1)
+print(l)
